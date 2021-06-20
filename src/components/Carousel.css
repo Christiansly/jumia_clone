@@ -1,0 +1,10 @@
+.carousel {
+    width: 700px;
+    border-radius: 0.2rem;
+    height: 350px;
+    z-index: 0;
+}
+
+body {
+    background-color: #ededed;
+}
